@@ -1,0 +1,10 @@
+Metadata-Version: 2.2
+Name: email_analysis
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: joblib
+Requires-Dist: scikit-learn
+Dynamic: requires-dist

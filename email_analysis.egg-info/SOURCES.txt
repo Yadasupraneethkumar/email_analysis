@@ -1,0 +1,9 @@
+README.md
+setup.py
+email_analysis.egg-info/PKG-INFO
+email_analysis.egg-info/SOURCES.txt
+email_analysis.egg-info/dependency_links.txt
+email_analysis.egg-info/requires.txt
+email_analysis.egg-info/top_level.txt
+src/__init__.py
+src/email_analysis/__init__.py
